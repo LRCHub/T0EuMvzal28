@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Selfish Flower",
+  "base_artist": "ゆうゆ",
+  "createdAt": "2026-02-28T09:14:57.403942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Selfish",
+      "artist": "Ned's Atomic Dustbin",
+      "has_synced": false,
+      "path": "select/01_Selfish_Ned's_Atomic_Dustbin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Selfish Jean",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/02_Selfish_Jean_Travis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Selfish",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/03_Selfish_SAINt_JHN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Selfish (feat. Yung Bleu)",
+      "artist": "Tink feat. Yung Bleu",
+      "has_synced": false,
+      "path": "select/04_Selfish_(feat._Yung_Bleu)_Tink_feat._Yung_Bleu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Selfish (feat. Yung Bleu)",
+      "artist": "Tink",
+      "has_synced": false,
+      "path": "select/05_Selfish_(feat._Yung_Bleu)_Tink.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Selfish",
+      "artist": "Julie Bergan",
+      "has_synced": true,
+      "path": "select/06_Selfish_Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Selfish",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/07_Selfish_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Selfish",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/08_Selfish_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yer Selfish Ways",
+      "artist": "Beachwood Sparks",
+      "has_synced": false,
+      "path": "select/09_Yer_Selfish_Ways_Beachwood_Sparks.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Selfish Gene",
+      "artist": "Catatonia",
+      "has_synced": false,
+      "path": "select/10_My_Selfish_Gene_Catatonia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Selfish Son",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/11_Selfish_Son_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Selfish",
+      "artist": "Future feat. Rihanna",
+      "has_synced": true,
+      "path": "select/12_Selfish_Future_feat._Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Selfish (feat. Rihanna)",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/13_Selfish_(feat._Rihanna)_Future.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Selfish Side",
+      "artist": "Dead or Alive",
+      "has_synced": true,
+      "path": "select/14_Selfish_Side_Dead_or_Alive.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Selfish Liar",
+      "artist": "Semblant",
+      "has_synced": true,
+      "path": "select/15_Selfish_Liar_Semblant.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Selfish Flower",
+      "artist": "ゆうゆ",
+      "has_synced": false,
+      "path": "select/pl_01_Selfish_Flower_ゆうゆ.txt"
+    }
+  ]
+}
